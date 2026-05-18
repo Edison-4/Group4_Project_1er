@@ -7,7 +7,7 @@
 * Plaza Edison
 * Chalen Camila
 
-## 📖 Descripción del Proyecto
+## Descripción del Proyecto
 Este proyecto es una aplicación desarrollada en Python que simula la gestión básica de un sistema bancario utilizando los pilares de la **Programación Orientada a Objetos (POO)**. 
 
 El sistema implementa:
@@ -18,7 +18,7 @@ El sistema implementa:
 
 ---
 
-## 📊 Diagrama de Clases
+## Diagrama de Clases
 
 A continuación se presenta el diagrama estructural de las clases desarrolladas. (Renderizado con Mermaid):
 
