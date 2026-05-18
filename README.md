@@ -78,3 +78,27 @@ classDiagram
 ```
 
 ## Evidencias de Ejecucion
+
+### clase_base.py
+
+<img width="1920" height="1080" alt="Captura de pantalla 2026-05-16 071000" src="https://github.com/user-attachments/assets/0e6fd250-e871-4803-95b8-9d4d5add07d6" />
+
+### clase_hija_1.py
+
+<img width="1920" height="1080" alt="Captura de pantalla 2026-05-16 071020" src="https://github.com/user-attachments/assets/c781cc31-92ea-4b3c-ac7c-e6d7a5e62866" />
+
+### clase_hija_2.py
+
+<img width="1920" height="1080" alt="Captura de pantalla 2026-05-16 071102" src="https://github.com/user-attachments/assets/dacdc4b4-6078-4d42-90a2-46568bc95c12" />
+
+### clase_extra_1.py
+
+<img width="1920" height="1080" alt="Captura de pantalla 2026-05-16 071142" src="https://github.com/user-attachments/assets/1aa7fd88-4ecf-42b0-bb54-a60a25cf5387" />
+
+### clase_extra_2.py
+
+<img width="1920" height="1080" alt="Captura de pantalla 2026-05-16 071239" src="https://github.com/user-attachments/assets/e8d43c65-d0a3-4024-888e-4249863a1f29" />
+
+### main.py
+
+<img width="1920" height="1080" alt="Captura de pantalla 2026-05-16 071342" src="https://github.com/user-attachments/assets/73131691-cb98-4507-b440-0242c589c9a0" />
