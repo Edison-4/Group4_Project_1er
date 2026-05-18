@@ -102,3 +102,11 @@ classDiagram
 ### main.py
 
 <img width="1920" height="1080" alt="Captura de pantalla 2026-05-16 071342" src="https://github.com/user-attachments/assets/73131691-cb98-4507-b440-0242c589c9a0" />
+
+## Enlace al Video
+
+En el siguiente enlace se encuentra el video explicativo de la práctica, donde el equipo detalla el código fuente y demuestra su funcionamiento.
+
+Enlace: https://drive.google.com/file/d/1V7xzvgDuNfef_LNnGUfIgO5vH42cwwBh/view?usp=sharing
+
+(Nota: El video cuenta con los permisos de visualización en modo público/cualquiera con el enlace).
