@@ -20,7 +20,7 @@ El sistema implementa:
 
 ## Diagrama de Clases
 
-A continuación se presenta el diagrama estructural de las clases desarrolladas. (Renderizado con Mermaid):
+A continuación se presenta el diagrama estructural de las clases desarrolladas.
 
 ```mermaid
 classDiagram
