@@ -74,7 +74,6 @@ classDiagram
     }
 
     ServicioBancario <|-- CuentaAhorro : Hereda de
-    ServicioBancario <|-- Prestamo : Hereda de
-___
+    ServicioBancario <|-- Prestamo : Hereda de '''
 
 ## hola
